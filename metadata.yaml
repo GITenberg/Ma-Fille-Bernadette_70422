@@ -1,0 +1,33 @@
+_repo: Ma-Fille-Bernadette_70422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jammes, Francis
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '4702'
+    url: http://www.gutenberg.org/2009/agents/4702
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francis_Jammes
+    - https://fr.wikipedia.org/wiki/Francis_Jammes
+description: ''
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70422'
+language: fr
+pgterms:marc904: https://archive.org/details/mafillebernadett00jammuoft
+pgterms:marc905: 20201121101433jammes
+pgterms:marc906: '1916'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bMercure de France, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Ma Fille Bernadette
+url: http://www.gutenberg.org/ebooks/70422
