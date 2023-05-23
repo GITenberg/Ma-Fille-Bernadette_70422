@@ -1,5 +1,8 @@
 _repo: Ma-Fille-Bernadette_70422
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70422-h/images/cover.jpg
 creator:
   author:
     agent_name: Jammes, Francis
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Francis_Jammes
     - https://fr.wikipedia.org/wiki/Francis_Jammes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70422#Ma-Fille-Bernadette
 gutenberg_issued: '2023-03-31'
 identifiers:
   gutenberg: '70422'
